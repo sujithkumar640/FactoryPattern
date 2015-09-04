@@ -1,0 +1,1 @@
+C:\Users\pallapas\Desktop\Technical Projects\Factory Pattern\FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
