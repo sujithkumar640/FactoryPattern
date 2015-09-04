@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPattern
 {
-    abstract class AbstractCourse
+    abstract public class AbstractCourse
     {
         // Class or interface for keeping common behaviour 
         //Properties
