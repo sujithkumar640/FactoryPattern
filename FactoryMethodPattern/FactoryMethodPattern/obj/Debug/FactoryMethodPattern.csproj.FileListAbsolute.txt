@@ -3,3 +3,6 @@ C:\Users\pallapas\Desktop\Technical Projects\Factory Pattern\FactoryPattern\Fact
 C:\Users\pallapas\Desktop\Technical Projects\Factory Pattern\FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
 C:\Users\pallapas\Desktop\Technical Projects\Factory Pattern\FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
 C:\Users\pallapas\Desktop\Technical Projects\Factory Pattern\FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
+C:\Users\pallapas\Desktop\Technical Projects\Git repository\FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+C:\Users\pallapas\Desktop\Technical Projects\Git repository\FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+C:\Users\pallapas\Desktop\Technical Projects\Git repository\FactoryPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
